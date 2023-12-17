@@ -1,44 +1,23 @@
 {
   "ascii": [
-    "███╗   ██╗ █████╗ ██████╗ ███████╗██████╗ ",
-    "████╗  ██║██╔══██╗██╔══██╗██╔════╝██╔══██╗",
-    "██╔██╗ ██║███████║██║  ██║█████╗  ██████╔╝",
-    "██║╚██╗██║██╔══██║██║  ██║██╔══╝  ██╔══██╗",
-    "██║ ╚████║██║  ██║██████╔╝███████╗██║  ██║",
-    "╚═╝  ╚═══╝╚═╝  ╚═╝╚═════╝ ╚══════╝╚═╝  ╚═╝ "
+    "# # # #   # ##### #   # ##### #   #",
+    " ###   # #   #  # #  ## #     #   #",
+    "  #     #    #  # # # # ####  #####",
+    " ###   #     #  # ##  # #     #   #",
+    "# # # #     #   # #   # ##### #   #"
   ],
-  "repoLink": "https://github.com/dabit3/terminal-portfolio",
+  "repoLink": "https://github.com/julienbrg/terminal-portfolio",
   "social": {
-    "email": "dabit3@gmail.com",
-    "github": "dabit3",
-    "linkedin": "naderdabit"
+    "email": "julien@strat.cc",
+    "github": "julienbrg",
+    "linkedin": "julien"
   },
-  "aboutGreeting": "Hi I'm Nader. I'm a full stack product engineer and developer educator.",
+  "aboutGreeting": "Hello, I'm Julien.",
   "projects": [
     [
-      "React Native AI",
-      "Full stack framework for building cross-platform mobile AI apps.",
-      "https://github.com/dabit3/react-native-ai"
-    ],
-    [
-      "React Native Elements",
-      "Cross-Platform React Native UI Toolkit.",
-      "https://github.com/react-native-elements/react-native-elements"
-    ],
-    [
-      "Pinecone Semantic Search",
-      "Embeds text files into vectors, stores them on Pinecone, and enables semantic search using GPT3 and Langchain in a Next.js UI.",
-      "https://github.com/dabit3/semantic-search-nextjs-pinecone-langchain-chatgpt"
-    ],
-    [
-      "Lens Widgets",
-      "Integration widgets for Lens Protocol",
-      "https://github.com/lens-protocol/lens-widgets"
-    ],
-    [
-      "All",
-      "View all of the projects I'm working on.",
-      "https://github.com/dabit3"
+      "Gov",
+      "...",
+      "https://github.com/w3hc/gov"
     ]
   ]
 }
