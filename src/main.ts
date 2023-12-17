@@ -222,9 +222,9 @@ function commandHandler(input : string) {
       }, 500);
       break;
     case 'home':
-      writeLines(["Redirecting to nader.codes...", "<br>"]);
+      writeLines(["Redirecting to julien.codes...", "<br>"]);
       setTimeout(() => {
-        window.open('https://nader.codes');
+        window.open('https://julien.codes');
       }, 500);
       break;
     case 'rm -rf':
